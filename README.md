@@ -1,16 +1,35 @@
-## Hi there 👋
+# Gerges Samuel Gabra
 
-<!--
-**josamcode/josamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building SaaS products and scalable web applications.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SaaS platforms
+- Business systems & ERP
+- AI-powered products
+- Full-stack web applications
+
+## Selected Work
+
+### Medafera
+Medical education platform combining lectures, summaries,
+flashcards, MCQs and an AI tutor.
+
+### Raeetna
+Church management platform covering members, meetings,
+attendance, communication and operations.
+
+### ARA Financial
+Multi-sector financial ERP and business management platform.
+
+## Tech
+
+Node.js • TypeScript • React • Next.js
+PostgreSQL • MongoDB • Redis
+Docker • Cloudflare • Coolify
+
+## Currently
+
+Building products, engineering systems and sharing what I learn.
+
+[[Website](https://josamcode.com)] • [[LinkedIn](https://www.linkedin.com/in/gerges-samuel)]
