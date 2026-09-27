@@ -1,35 +1,33 @@
 # Gerges Samuel Gabra
 
-Software Engineer building SaaS products and scalable web applications.
+Full-stack engineer building multi-tenant SaaS products and Arabic-first business systems — from data modeling and backend architecture to production deployment.
 
-## What I build
-
-- SaaS platforms
-- Business systems & ERP
-- AI-powered products
-- Full-stack web applications
+Most of my work is commercial and lives in private repositories. The case studies below document the engineering behind those systems without exposing proprietary source code.
 
 ## Selected Work
 
-### Medafera
-Medical education platform combining lectures, summaries,
-flashcards, MCQs and an AI tutor.
+| Project | What it is | Engineering focus |
+| --- | --- | --- |
+| [ARA Financial](https://github.com/josamcode/ara-financial-case-study) | Multi-tenant accounting and ERP SaaS | Double-entry accounting, exact ledger arithmetic, tenant isolation, transactional outbox, confirmable AI actions |
+| [Medafera](https://github.com/josamcode/medafera-case-study) | Medical study platform with an AI content pipeline | RAG with pgvector, human-reviewed AI content, BullMQ pipelines, database invariants, production operations |
+| [Raeetna](https://github.com/josamcode/raeetna-case-study) | Multi-church management platform | Database-per-tenant isolation, delegated permissions, realtime features, AI assistant with controlled write boundaries |
+| [Abaar Al-Raeda](https://github.com/josamcode/abaar-al-raeda-case-study) | Commerce and project-execution platform | Transactional outbox, `SKIP LOCKED`, idempotency, race-safe order processing, workflow validation |
+| [JoSam Content Hub](https://github.com/josamcode/josam-content-hub-case-study) | Multi-platform content scheduling SaaS | TikTok, YouTube and Meta integrations, PostgreSQL-backed job claiming, encrypted OAuth tokens |
 
-### Raeetna
-Church management platform covering members, meetings,
-attendance, communication and operations.
+## Technologies I Use Most
 
-### ARA Financial
-Multi-sector financial ERP and business management platform.
+**Backend**  
+TypeScript · Node.js · NestJS · Express
 
-## Tech
+**Frontend**  
+React · Next.js · Tailwind CSS
 
-Node.js • TypeScript • React • Next.js
-PostgreSQL • MongoDB • Redis
-Docker • Cloudflare • Coolify
+**Data & Infrastructure**  
+PostgreSQL · MongoDB · Redis · BullMQ · Prisma · pgvector
 
-## Currently
+**Production**  
+Docker · Coolify · GitHub Actions · Cloudflare R2
 
-Building products, engineering systems and sharing what I learn.
+## Links
 
-[[Website](https://josamcode.com)] • [[LinkedIn](https://www.linkedin.com/in/gerges-samuel)]
+[Portfolio](https://josamcode.com/) · [LinkedIn](https://www.linkedin.com/in/gerges-samuel)
